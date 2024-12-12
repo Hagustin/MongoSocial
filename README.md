@@ -31,23 +31,17 @@ MongoSocial is a RESTful API built with Express.js, MongoDB, and Mongoose, desig
    npm install
 ```
 
-3. Create a `.env` file in the root directory and add the following variables:
-```bash
-   MONGODB_URI=mongodb://127.0.0.1:27017/MongoSocial
-   PORT=3001
-```
-
-4. Compile TypeScript files:
+3. Compile TypeScript files:
 ```bash
    npm build
 ```
 
-5. Seed the database:
+4. Seed the database:
 ```bash
    npm run seed
 ```
 
-6. Start the server:
+5. Start the server:
 ```bash
    npm run start
 ```
