@@ -39,7 +39,7 @@ MongoSocial is a RESTful API built with Express.js, MongoDB, and Mongoose, desig
 
 4. Compile TypeScript files:
 ```bash
-   npx tsc
+   npm build
 ```
 
 5. Seed the database:
