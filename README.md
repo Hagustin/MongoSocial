@@ -81,7 +81,7 @@ Use Insomnia, Postman, or any API testing tool to test the following routes.
 ## Walkthrough Video 🎥
 Click the link below to view the complete walkthrough demonstrating the functionality of the MongoSocial API:
 
-[Walkthrough Video - MongoSocial API](#)
+[Walkthrough Video - MongoSocial API](https://drive.google.com/file/d/1GDKsDzSokCnjGf2dNfHvLiKWl-ScBwhO/view?usp=sharing)
 
 ## License 📄
 This project is licensed under the MIT License.
